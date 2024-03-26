@@ -4,7 +4,7 @@
   "description": "Your package description",
   "main": "index.js",
   "scripts": {
-    "test": "your-test-command"
+    "test": "node test.js"
   },
   "author": "Your Name",
   "license": "MIT"
